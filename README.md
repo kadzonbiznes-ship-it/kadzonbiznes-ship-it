@@ -4,10 +4,10 @@
   
    <h2>📫 Social Media</h2>
   <b>Discord:</b> <code>spinbara</code> ・ 
-  <b>Discord Server: <a href="----">dc.m4code.pl</a>
+  <b>Discord Server: <a href="----">----</a>
   <br>
   <b>Email:</b> <a href="mailto:kadzonbiznes@gmail.com">kadzonbiznes@gmail.com</a> ・ 
-  <b>Website:</b> <a href="----">m4code.pl</a>
+  <b>Website:</b> <a href="----">----</a>
   <br>
   
 
