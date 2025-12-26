@@ -1,13 +1,13 @@
 <div align="center">
-  <h1> Hey, i'm Mateusz! 👋 </h1>
+  <h1> Hey, i'm Lukasz! 👋 </h1>
   <img src="https://komarev.com/ghpvc/?username=dexopshaha" alt="dexopshaha" /><br/><br/>
   
    <h2>📫 Social Media</h2>
-  <b>Discord:</b> <code>dexops</code> ・ 
-  <b>Discord Server: <a href="https://dc.m4code.pl">dc.m4code.pl</a>
+  <b>Discord:</b> <code>spinbara</code> ・ 
+  <b>Discord Server: <a href="----">dc.m4code.pl</a>
   <br>
-  <b>Email:</b> <a href="mailto:kadzonbiznes@gmail.com">mateusz.kosowski@m4code.pl</a> ・ 
-  <b>Website:</b> <a href="https://www.m4code.pl">m4code.pl</a>
+  <b>Email:</b> <a href="mailto:kadzonbiznes@gmail.com">kadzonbiznes@gmail.com</a> ・ 
+  <b>Website:</b> <a href="----">m4code.pl</a>
   <br>
   
 
