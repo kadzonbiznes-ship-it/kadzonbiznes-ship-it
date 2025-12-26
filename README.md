@@ -1,13 +1,13 @@
 <div align="center">
-  <h1> Hey, i'm Lukasz! 👋 </h1>
+  <h1> Hey, i'm Mateusz! 👋 </h1>
   <img src="https://komarev.com/ghpvc/?username=dexopshaha" alt="dexopshaha" /><br/><br/>
   
    <h2>📫 Social Media</h2>
-  <b>Discord:</b> <code>spinbara</code> ・ 
-  <b>Discord Server: <a href="----">----</a>
+  <b>Discord:</b> <code>dexops</code> ・ 
+  <b>Discord Server: <a href="https://dc.m4code.pl">dc.m4code.pl</a>
   <br>
-  <b>Email:</b> <a href="mailto:kadzonbiznes@gmail.com">kadzonbiznes@gmail.com</a> ・ 
-  <b>Website:</b> <a href="----">m4code.pl</a>
+  <b>Email:</b> <a href="mailto:kadzonbiznes@gmail.com">mateusz.kosowski@m4code.pl</a> ・ 
+  <b>Website:</b> <a href="https://www.m4code.pl">m4code.pl</a>
   <br>
   
 
@@ -20,6 +20,9 @@
   ![CSS](https://img.shields.io/badge/CSS-black?style=flat&logo=CSS3)
   ![PHP](https://img.shields.io/badge/PHP-black?style=flat&logo=PHP)
   ![LUA](https://img.shields.io/badge/LUA-black?style=flat&logo=LUA)
+  ![C++](https://img.shields.io/badge/C++-black?style=flat&logo=C++)
+  ![JDA](https://img.shields.io/badge/JDA-black?style=flat&logo=JDA)
+  ![PYTHON](https://img.shields.io/badge/PYTHON-black?style=flat&logo=PYTHON)
   <br>
 
 
